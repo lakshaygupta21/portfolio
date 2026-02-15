@@ -2,8 +2,7 @@
     "name": "portfolio",
     "compatibility_date": "2026-02-15",
     "assets": {
-        "directory": "./out",
-        "binding": "ASSETS"
+        "directory": "./out"
     },
     "observability": {
         "enabled": true
